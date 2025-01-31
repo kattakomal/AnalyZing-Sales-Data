@@ -5,13 +5,18 @@ Analyze Amazon sales data to understand sales trends, identify top-performing pr
 
 # Tools and Technologies:
 Programming Language: Python 
+
 Libraries: pandas, numpy, seaborn, matplotlib, Scipy
+
 Visualization Tools: Tableau, Jupyter Notebook
 
 # Data Cleaning:
 We load and clean the data using python and check the columns data types.
+
 And we check for null values in the data.
+
 If null values are present we clean by adding the missing data or dropping the rows.
+
 Changing the data types for better analysis of the data.
 
 # Exploratory Data Analysis:
@@ -28,11 +33,17 @@ Changing the data types for better analysis of the data.
 
 # Outputs & Insights:
 Finally, After Data Cleaning Save the Cleaned dataset for Tableau Visualization.
+
 The mean discounted price is ₹3129.98, while the mean actual price is ₹5453.08, indicating that on average, products have a significant discount.
+
 The minimum price is ₹39, suggesting a wide range of products from very low-cost to premium.
+
 The maximum discount is 94%, while the minimum is 0%, showing that some products have no discount at all while others are heavily discounted.
+
 The average rating is 4.10, indicating that most products are rated well.
+
 The data suggests a high-discount market, where many products receive substantial price cuts.
+
 The majority of products have a good rating (4.0+), indicating customer satisfaction.
 
 # Tableau Dashboard:
