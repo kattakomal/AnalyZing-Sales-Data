@@ -1,4 +1,4 @@
-# AnalyZing-Sales-Data
+# Analyzing-Sales-Data
 
 Introduction / Problem Statement:
 Analyze Amazon sales data to understand sales trends, identify top-performing products,and optimize inventory and marketing strategies.
